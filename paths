@@ -1,0 +1,4 @@
+samba /etc/samba/
+cups /etc/cups/
+nginx /etc/nginx/
+ddc /etc/
